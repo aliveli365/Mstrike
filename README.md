@@ -1,0 +1,2 @@
+# mstrike
+Mstrike basic trojan
